@@ -1,0 +1,18 @@
+
+UDACITY-Intro to Relational Databases Tournament Project
+
+I. File list
+------------
+tournament.py		Contains Python Codes for this project
+tournament.sql		Set up database schema 
+tournament_test.py		A client program which is using functions written in the tournament.py module.
+
+II. Project Detail
+
+This Project is designed to work on databases through the use of database schemas and how to manipulate the data inside the database. This project has two parts: defining the database schema (SQL table definitions) in tournament.sql, and writing code that which use it to track a Swiss tournament in tournament.py.
+
+III. The Swiss System
+The Swiss system produces a clear winner in just a few rounds, no-one is eliminated and almost everyone wins at least one game, but there are many ties to deal with.
+
+
+ 
