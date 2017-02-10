@@ -14,5 +14,9 @@ This Project is designed to work on databases through the use of database schema
 III. The Swiss System
 The Swiss system produces a clear winner in just a few rounds, no-one is eliminated and almost everyone wins at least one game, but there are many ties to deal with.
 
-
+IV How to Run Program
+1- You need to run tournament.sql to create database and it's Tables.($psql     $/i tournament.py) 
+2- You need to run tournament_test.py	on terminal ($python tournament_test.py) 
+3- After running ($python tournament_test.py) you should see "Success!  All tests pass!"
+4- If there is an error you could Contact with me via burc.kardas@gmail.com
  
