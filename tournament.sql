@@ -8,6 +8,7 @@
 DROP DATABASE IF EXISTS tournament;
 CREATE DATABASE tournament;
 
+\c tournament
 CREATE TABLE PLAYER(
 	INCKEYNO serial PRIMARY KEY,
 	NAME varchar(50) NULL
